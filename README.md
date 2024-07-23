@@ -1,7 +1,7 @@
 ## Olá, me chamo Guilherme! ✨
 ## 👤 Sobre mim 
 - 👑 Tenho 17 anos;
-- 💻 Sou apaixonado na programação, vejo-a como uma grande ferramenta para todo o mundo e pretendo me especializar em ADS e Engenharia de Dados;
+- 💻 Sou apaixonado em programação, vejo-a como uma grande ferramenta para todo o mundo e pretendo me especializar em ADS e Engenharia de Dados;
 - ❤ Atualmente estou em um [relacionamento](https://www.instagram.com/lohloh_lima/) sério;
 - 📌 Sei algumas línguagens como: JavaScript, Python, Html, entre outras.
 
