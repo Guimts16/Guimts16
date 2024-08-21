@@ -1,20 +1,28 @@
 ## Olá, me chamo Guilherme! ✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aceitadev/aceitadev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aceitadev/aceitadev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aceitadev/aceitadev/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## 👤 Sobre mim 
-- 👑 Tenho 17 anos;
-- 💻 Sou apaixonado em programação, vejo-a como uma grande ferramenta para todo o mundo e pretendo me especializar em ADS e Engenharia de Dados.
-- [❤️](https://www.instagram.com/lohloh_lima/);
-- 📌 Sei algumas línguagens como: JavaScript, Python, Html, entre outras.
+- 💻 Pretendo começar minha faculdade na UNICAMP;
 - 🤖 Desenvolvo Bots de Discord, utilizando Js e Python, justamente com MySQL e MongoDB.
+- [❤️](https://www.instagram.com/lohloh_lima/).
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠 Skills
+- **Linguagens**
 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠 Minhas Ferramentas 
-
+  
+- **Ferramentas**
+  
   ![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
