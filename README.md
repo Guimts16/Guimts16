@@ -1,6 +1,4 @@
 ## Olá, me chamo Guilherme! ✨
-  <picture><img alt="cobrinha" src="https://raw.githubusercontent.com/Guimts16/Guimts16/main/github-user-contribution.svg"></picture>
-
 
 ## 👤 Sobre mim 
 - 💻 Pretendo começar minha faculdade na [UNICAMP](https://unicamp.br/);
@@ -31,6 +29,9 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guihmts_/)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mtsguilherme991@gmail.com)
   [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Guimtse)
+
+  [![Discord Presence](https://lanyard.kyrie25.me/api/617362818299199498?imgStyle=square&imgBorderRadius=500px)](https://discord.com/users/617362818299199498)
+
 
 
 ## 📈 **Minhas estatisticas**
