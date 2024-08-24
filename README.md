@@ -3,7 +3,7 @@
 ## 👤 Sobre mim 
 - 💻 Pretendo começar minha faculdade na [UNICAMP](https://unicamp.br/);
 - 🤖 Desenvolvo Bots de Discord, utilizando Js e Python, justamente com MySQL e MongoDB.
-- [❤️](https://www.instagram.com/lohloh_lima/).
+
 - ♟ Gosto de xadrez
   
   <picture><img alt="mate" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="150" height="150"></picture>
