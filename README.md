@@ -2,7 +2,7 @@
 
 ## 👤 Sobre mim 
 - 💻 Pretendo começar minha faculdade na [UNICAMP](https://unicamp.br/);
-- 🤖 Desenvolvo Bots de Discord, utilizando Js e Python, justamente com MySQL e MongoDB.
+- 🤖 Desenvolvo Bots de Discord, utilizando Js e Python, juntamente com MySQL e MongoDB.
 
 - ♟ Gosto de xadrez
   
