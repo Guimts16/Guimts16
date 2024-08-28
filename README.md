@@ -1,6 +1,6 @@
-## Olá, me chamo Guilherme! ✨
+## Olá, me chamo Guilherme! <img src="https://i.pinimg.com/originals/e5/24/a2/e524a2cf47d6ee6b22585b4f98dacdc3.gif" height=45px/>
 
-## 👤 Sobre mim 
+## 👤 Sobre mim
 - 💻 Pretendo começar minha faculdade na [UNICAMP](https://unicamp.br/);
 - 🤖 Desenvolvo Bots de Discord, utilizando Js e Python, juntamente com MySQL e MongoDB.
 
