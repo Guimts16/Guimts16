@@ -3,10 +3,8 @@
 ## 👤 Sobre mim
 - 💻 Pretendo começar minha faculdade na [UNICAMP](https://unicamp.br/);
 - 🤖 Desenvolvo Bots de Discord, utilizando Js e Python, juntamente com MySQL e MongoDB.
-
-- ♟ Gosto de xadrez
+- 👨‍💻 Adoro programação em geral, estou aberto a aprender diversas coisas!
   
-  <picture><img alt="mate" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="150" height="150"></picture>
 ## 🛠 Skills
 - **Linguagens**
 
