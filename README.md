@@ -29,7 +29,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mtsguilherme991@gmail.com)
   [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Guimtse)
 
-  [![Discord Presence](https://lanyard.kyrie25.me/api/617362818299199498?imgStyle=square&imgBorderRadius=500px)](https://discord.com/users/617362818299199498)
+  [![Discord Presence](https://api.lanyard.rest/v1/users/1300908607919095902)](https://discord.com/users/1300908607919095902)
 
 
 
