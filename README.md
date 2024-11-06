@@ -29,8 +29,8 @@
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mtsguilherme991@gmail.com)
   [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Guimtse)
 
-  [![Discord Presence](https://api.lanyard.rest/v1/users/1300908607919095902)](https://discord.com/users/1300908607919095902)
-
+  [![Discord Presence](https://lanyard.kyrie25.dev/api/1300908607919095902)](https://discord.com/users/1300908607919095902)
+  [![Discord2 Presence](https://lanyard.kyrie25.dev/api/617362818299199498)](https://discord.com/users/617362818299199498)
 
 
 ## 📈 **Minhas estatisticas**
