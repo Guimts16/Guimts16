@@ -1,18 +1,17 @@
-## Olá, me chamo Guilherme! <img src="https://i.pinimg.com/originals/e5/24/a2/e524a2cf47d6ee6b22585b4f98dacdc3.gif" height=45px/>
+## Hello, my name is Guilherme! <img src="https://i.pinimg.com/originals/e5/24/a2/e524a2cf47d6ee6b22585b4f98dacdc3.gif" height=45px/>
 
 ## 👤 Sobre mim
-- 🤖 Desenvolvo Bots de Discord, utilizando Js e Python, juntamente com MySQL e MongoDB.
-- 👨‍💻 Adoro programação em geral, estou aberto a aprender diversas coisas!
-  
+- 🤖 I develop Discord Bots, using Js and Python, along with MySQL and MongoDB.
+- - 👨‍💻 I love programming in general, I'm open to learning different things!  
 ## 🛠 Skills
-- **Linguagens**
+- **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,py,mysql,mongodb,discordjs,arduino" />
   </a>
 </p>
 
-- **Ferramentas**
+- **Tools**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -20,7 +19,7 @@
   </a>
 </p>
 
-## ✨ Minhas Redes 
+## ✨ Social 
 
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@guimts/)  
   [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGhR7oqV65kYyj5hQWMY8WQ)
@@ -31,7 +30,7 @@
   [![Discord Presence](https://lanyard.kyrie25.dev/api/617362818299199498)](https://discord.com/users/617362818299199498)
 
 
-## 📈 **Minhas estatisticas**
+## 📈 **My statistics**
 
 ![Guimts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guimts16&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimts16&layout=compact&theme=radical)
