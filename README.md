@@ -1,8 +1,8 @@
 ## Hello, my name is Guilherme! <img src="https://i.pinimg.com/originals/e5/24/a2/e524a2cf47d6ee6b22585b4f98dacdc3.gif" height=45px/>
 
-## 👤 Sobre mim
+## 👤 About me
 - 🤖 I develop Discord Bots, using Js and Python, along with MySQL and MongoDB.
-- - 👨‍💻 I love programming in general, I'm open to learning different things!  
+- 👨‍💻 I love programming in general, I'm open to learning different things!  
 ## 🛠 Skills
 - **Languages**
 <p align="left">
