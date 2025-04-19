@@ -34,7 +34,7 @@
 
 
 
-<h3 align="center">Social</h3>
+<h3 align="center">🎸 Social</h3>
 <div align="center">
   <a href="https://discord.com/channels/@guimts/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
@@ -64,12 +64,6 @@
 <img width="380" src="https://github-readme-stats.vercel.app/api?username=Guimts16&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
 
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimts16&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guimts16/Guimts16/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guimts16/Guimts16/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guimts16/Guimts16/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
